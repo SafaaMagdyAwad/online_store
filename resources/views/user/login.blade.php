@@ -15,7 +15,7 @@
         <input type="email" class="input mt-1 form-control loginPass" placeholder="email" name="email">
     </div>
     <div>
-        <input type="text" class="input mt-1 form-control loginPass" placeholder="card_number" name="card_number">
+        <input type="text" class="input mt-1 form-control loginPass" placeholder="card_number" name="card_number" value="null">
     </div>
     
     
